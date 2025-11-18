@@ -321,7 +321,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #1970AA;
+  color: #EF6024;
 }
 
 .blue-background-link {
@@ -332,7 +332,7 @@ a:hover {
 
 .blue-background-link:hover {
   /*color: #1970AA; /* hover color */
-  color: blue;
+  color: #363432;
 }
 
 /* Navbar */

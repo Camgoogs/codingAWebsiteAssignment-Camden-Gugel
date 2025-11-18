@@ -241,6 +241,17 @@ body {
   background-color: rgba(255,255,255,0.2);
 }
 
+.hero-buttons a.primary {
+  background-color: #F0941F;
+  color: white;
+}
+
+.hero-buttons a.primary:hover {
+  background-color: rgba(255,255,255,0.2);
+  color: #F0941F;;
+}
+
+
 /* --- Text & Layout Enhancements --- */
 
 section h2 {
@@ -320,7 +331,8 @@ a:hover {
 }
 
 .blue-background-link:hover {
-  color: #1970AA; /* hover color */
+  /*color: #1970AA; /* hover color */
+  color: blue;
 }
 
 /* Navbar */
